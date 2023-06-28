@@ -27,7 +27,7 @@
 
 </div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,python,azure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,azure&theme=dark" />
   </a>
   <br><br>
 
